@@ -1,6 +1,6 @@
 # Getting Started LinearGauge
 
-This repository contains sample for how to get started with the [Syncfusion Xamarin.Forms Linear Gauge](https://help.syncfusion.com/xamarin/linear-gauge/getting-started) control. The Linear Gauge displays a range of values graphically along the linear scale, which is considered as the linear form of the linear gauge. It measures the values of the scale and it is present in the horizontal, vertical sliding, or meter.
+This repository contains sample to get started with the [Syncfusion Xamarin.Forms Linear Gauge](https://help.syncfusion.com/xamarin/linear-gauge/getting-started) control. The Linear Gauge displays a range of values graphically along the linear scale, which is considered as the linear form of the linear gauge. It measures the values of the scale and it is present in the horizontal, vertical sliding, or meter.
 
 ## Syncfusion controls:
 
